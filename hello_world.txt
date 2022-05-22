@@ -1,0 +1,7 @@
+Hi, my name is Ravi Paswan.
+I am on a journey to learn full stack development on
+"The Odin Project".
+I hope, I will be a successful programmer and a good developer in
+future.
+This I promise to myself and commit to do it so.
+Thank You.
